@@ -1,7 +1,5 @@
 Github URL: https://github.com/morgoth09/Deploying-a-Scalable-ML-Pipeline-with-FastAPI.git
 
-
-
 # Environment Set up (pip or conda)
 * Option 1: use the supplied file `environment.yml` to create a new environment with conda
 * Option 2: use the supplied file `requirements.txt` to create a new environment with pip
